@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ahmad</title>
 <body>
 <h1 style="text-align:center">ahmadlubbadeh</h1>
 <p title="my summary">i am Ahmad,I am studying at the al-najah university,i am studying computer science.</p>
