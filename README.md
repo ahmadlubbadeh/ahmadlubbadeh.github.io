@@ -1,7 +1,7 @@
-
 <!DOCTYPE html>
 <html>
 <head>
+<title>ahmad</title>
 <body>
 <h1 style="text-align:center">ahmadlubbadeh</h1>
 <p title="my summary">i am Ahmad,I am studying at the al-najah university,i am studying computer science.</p>
@@ -12,7 +12,7 @@
 <h2>my education background</h2>
 <ul>
 <li>I completed high school studies</li>
-<li>I completed high school studies</li>
+<li>Currently I am studying at university majoring in computer science</li>
 </ul>
 <h2> my work experiences</h2>
 <ol>
