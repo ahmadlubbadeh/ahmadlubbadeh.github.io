@@ -25,7 +25,7 @@
 </ol>
 <h2> my hobbies</h2>
 <ul>
-<li style="text-align:center">playing football</li>
+<li>playing football</li>
 <li>playing computer games</li>
 <li>Repair of electronic parts</li>
 <ul>
