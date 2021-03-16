@@ -28,6 +28,6 @@
 <li>playing football</li>
 <li>playing computer games</li>
 <li>Repair of electronic parts</li>
-<ul>
+</ul>
 </body>
 </html>
