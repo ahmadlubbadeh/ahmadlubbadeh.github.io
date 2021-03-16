@@ -10,7 +10,7 @@
 <p title="my summary">i am Ahmad,I am studying at the al-najah university,i am studying computer science.</p>
 <a href="https://www.facebook.com/ahmad.lubbadeh.13">my facebook profile</a>
 <br>
-<img src="jerusalem.jpg" alt="Jerusalem city"width="600" height="400">
+<img src="jerusalem.jpg" alt="Jerusalem city"width="400" height="300">
 <br>
 <h2>my education background</h2>
 <ul>
