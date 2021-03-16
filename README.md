@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>ahmad</title>
+<link rel="stylesheet" href="mystyle.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <body>
-<h1 style="text-align:center">ahmadlubbadeh</h1>
+<h1>ahmadlubbadeh</h1>
 <p title="my summary">i am Ahmad,I am studying at the al-najah university,i am studying computer science.</p>
 <a href="https://www.facebook.com/ahmad.lubbadeh.13">my facebook profile</a>
 <br>
-<img src="jerusalem.jpg" alt="Jerusalem city" font-size:height=800 width=600>
+<img src="jerusalem.jpg" alt="Jerusalem city"width="600" height="400">
 <br>
 <h2>my education background</h2>
 <ul>
@@ -21,7 +25,7 @@
 </ol>
 <h2> my hobbies</h2>
 <ul>
-<li>playing football</li>
+<li style="text-align:center">playing football</li>
 <li>playing computer games</li>
 <li>Repair of electronic parts</li>
 <ul>
